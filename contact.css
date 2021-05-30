@@ -1,0 +1,47 @@
+
+body {
+    background-color: rgba(211, 211, 211, 0.4);
+    text-align: left;
+}
+
+header {
+    border-bottom: 4px solid darkblue;
+    background-color: #aec3b0;
+}
+
+div {
+   
+}
+
+table {
+    margin-top: 30px;
+    table-layout: auto;
+    text-align: center;
+    vertical-align: middle; 
+}
+
+thead {
+    text-align: center !important;
+    font-size: 1.5em;   
+}
+
+tr {
+    text-align: center;
+    vertical-align: middle;  
+}
+
+
+
+
+h1,h2,h3 {
+    color: darkblue;
+    margin-top: 30px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3 {
+   text-align: center; 
+}

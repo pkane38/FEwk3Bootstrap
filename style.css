@@ -1,0 +1,65 @@
+img {
+    align-items: center;
+}
+
+body {
+    background-color: rgba(211, 211, 211, 0.4);
+    text-align: center;
+}
+
+header {
+    border-bottom: 4px solid darkblue;
+    background-color: #aec3b0;
+    height: 75px;
+}
+
+hr {width: 3px; border: none; color:darkblue;}
+
+
+table {
+    margin-top: 10px;
+    table-layout: auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+thead {
+    text-align: center !important;
+    font-size: 1.5em;
+}
+
+tr {
+    text-align: left;
+    vertical-align: middle; 
+}
+
+tr:nth-child(2) {
+    background-color: #1245593f;
+}
+
+
+#profilePic{
+    border: 4px solid darkorange;
+    margin-bottom: 20px;
+    border-radius: 50px 0px 50px 0px;
+}
+
+profilePic:hover {
+    border-color: 4px solid darkblue;
+}
+
+h1,h2,h3 {
+    color: darkblue;
+    border-width: 2px;
+    margin-top: 30px;
+   
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3 {
+    text-align: center; 
+    border-bottom: 2px solid darkblue;
+}
